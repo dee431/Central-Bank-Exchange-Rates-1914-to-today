@@ -1,11 +1,11 @@
 # Central-Bank-Exchange-Rates-1914-to-today
 
 <img width="590" height="222" alt="image" src="https://github.com/user-attachments/assets/9c8f1e5e-c2e7-4a27-8e40-5a7cdced85c9" />
-<img width="367" height="316" alt="image" src="https://github.com/user-attachments/assets/2412e80d-725b-458a-a32c-2650785626c7" />
-<img width="547" height="268" alt="image" src="https://github.com/user-attachments/assets/4ddc273f-e4cc-42a1-9467-d3a7f7d3fdba" />
-<img width="366" height="179" alt="image" src="https://github.com/user-attachments/assets/b5e8dcf6-5ad3-4c37-8fc5-e9391f97ed50" />
-<img width="497" height="306" alt="image" src="https://github.com/user-attachments/assets/66bd2beb-07bd-4104-bb15-0f84c69c1ced" />
-<img width="342" height="183" alt="image" src="https://github.com/user-attachments/assets/ff782928-8269-4de4-bd6c-4fe3ddc9c84b" />
+<img width="340" height="316" alt="image" src="https://github.com/user-attachments/assets/2412e80d-725b-458a-a32c-2650785626c7" />
+<img width="300" height="170" alt="image" src="https://github.com/user-attachments/assets/4ddc273f-e4cc-42a1-9467-d3a7f7d3fdba" />
+<img width="300" height="170" alt="image" src="https://github.com/user-attachments/assets/b5e8dcf6-5ad3-4c37-8fc5-e9391f97ed50" />
+<img width="300" height="200" alt="image" src="https://github.com/user-attachments/assets/66bd2beb-07bd-4104-bb15-0f84c69c1ced" />
+<img width="100" height="180" alt="image" src="https://github.com/user-attachments/assets/ff782928-8269-4de4-bd6c-4fe3ddc9c84b" />
 
 
 
