@@ -1,6 +1,7 @@
 # Central-Bank-Exchange-Rates-1914-to-today
 
 <img width="590" height="222" alt="image" src="https://github.com/user-attachments/assets/9c8f1e5e-c2e7-4a27-8e40-5a7cdced85c9" />
+<img width="367" height="316" alt="image" src="https://github.com/user-attachments/assets/2412e80d-725b-458a-a32c-2650785626c7" />
 
 
 
